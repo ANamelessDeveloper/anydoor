@@ -2,8 +2,14 @@
 logs
 *.log
 npm-debug.log*
+node_modules/
+*.swp
+.idea/
+.DS_Store
+build/
 yarn-debug.log*
 yarn-error.log*
+
 
 # Runtime data
 pids
